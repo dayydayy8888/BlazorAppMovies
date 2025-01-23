@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|c:\\users\\dayyana\\source\\repos\\blazorapp1\\components\\pages\\moviepages\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|solutionrelative:components\\pages\\moviepages\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|c:\\users\\dayyana\\source\\repos\\blazorapp1\\data\\blazorapp1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|solutionrelative:data\\blazorapp1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|c:\\users\\dayyana\\source\\repos\\blazorapp1\\components\\pages\\moviepages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|solutionrelative:components\\pages\\moviepages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|c:\\users\\dayyana\\source\\repos\\blazorapp1\\scaffolding-readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|solutionrelative:scaffolding-readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|c:\\users\\dayyana\\source\\repos\\blazorapp1\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|solutionrelative:movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|c:\\users\\dayyana\\source\\repos\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|c:\\users\\dayyana\\source\\repos\\blazorapp1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|c:\\users\\dayyana\\source\\repos\\blazorapp1\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|c:\\users\\dayyana\\source\\repos\\blazorapp1\\migrations\\20250122131845_mssql.local_migration_272.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|solutionrelative:migrations\\20250122131845_mssql.local_migration_272.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|c:\\users\\dayyana\\source\\repos\\blazorapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|c:\\users\\dayyana\\source\\repos\\blazorapp1\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|c:\\users\\dayyana\\source\\repos\\blazorapp1\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|c:\\users\\dayyana\\source\\repos\\blazorapp1\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E07E11-136D-4215-9AC9-FEECA2D86B1E}|BlazorApp1.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Components\\Pages\\MoviePages\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\MoviePages\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Components\\Pages\\MoviePages\\_Imports.razor",
+              "RelativeToolTip": "Components\\Pages\\MoviePages\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T14:39:36.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Movie.cs",
+              "RelativeDocumentMoniker": "Movie.cs",
+              "ToolTip": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Movie.cs",
+              "RelativeToolTip": "Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:28:27.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scaffolding-README.md",
+              "DocumentMoniker": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Scaffolding-README.md",
+              "RelativeDocumentMoniker": "Scaffolding-README.md",
+              "ToolTip": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Scaffolding-README.md",
+              "RelativeToolTip": "Scaffolding-README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-22T14:28:23.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlazorApp1Context.cs",
+              "DocumentMoniker": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Data\\BlazorApp1Context.cs",
+              "RelativeDocumentMoniker": "Data\\BlazorApp1Context.cs",
+              "ToolTip": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Data\\BlazorApp1Context.cs",
+              "RelativeToolTip": "Data\\BlazorApp1Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:12:58.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Components\\Pages\\MoviePages\\Create.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\MoviePages\\Create.razor",
+              "ToolTip": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Components\\Pages\\MoviePages\\Create.razor",
+              "RelativeToolTip": "Components\\Pages\\MoviePages\\Create.razor",
+              "ViewState": "AgIAACsAAAAAAAAAAAAEwDYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T15:13:24.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:28:25.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T13:34:36.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T13:22:10.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250122131845_mssql.local_migration_272.cs",
+              "DocumentMoniker": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Migrations\\20250122131845_mssql.local_migration_272.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250122131845_mssql.local_migration_272.cs",
+              "ToolTip": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Migrations\\20250122131845_mssql.local_migration_272.cs",
+              "RelativeToolTip": "Migrations\\20250122131845_mssql.local_migration_272.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:19:48.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T14:53:47.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T14:53:35.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T14:53:29.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Dayyana\\source\\repos\\BlazorApp1\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T14:53:23.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
